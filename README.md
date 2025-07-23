@@ -1,5 +1,5 @@
 
-# 🚀 Data Structures and Algorithms in Java
+#  Data Structures and Algorithms in Java
 
 ![Java](https://img.shields.io/badge/Java-Programming-orange)  
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Essential-blue)  
@@ -11,12 +11,12 @@
 
 ---
 
-## 📘 What’s Inside?
+##  What’s Inside?
 
 This repository is your **one-stop guide** to cracking Data Structures and Algorithms using Java.  
 Whether you're a **beginner** or prepping for **FAANG interviews**, this will be your go-to guide.
 
-### ✅ Prerequisites:
+###  Prerequisites:
 Before diving in, make sure you're comfortable with basic Java concepts:
 - ☑️ Java Operators
 - ☑️ Functions & Recursion
@@ -29,30 +29,30 @@ Before diving in, make sure you're comfortable with basic Java concepts:
 
 ```bash
 📁 Data-Structures-and-Algorithms-in-Java
-├── 📚 Arrays
-├── 🔁 Recursion & Backtracking
-├── 📊 Linked Lists
-├── 🌲 Trees & Binary Trees
-├── 🗺️ HashMaps & Heaps
-├── 📈 Searching & Sorting
-├── 🎯 Greedy Algorithms
-├── 🧠 Dynamic Programming
-└── 💬 Interview Questions
+├──  Arrays
+├──  Recursion & Backtracking
+├──  Linked Lists
+├──  Trees & Binary Trees
+├── ️ HashMaps & Heaps
+├──  Searching & Sorting
+├──  Greedy Algorithms
+├──  Dynamic Programming
+└──  Interview Questions
 ```
 
 ---
 
 ## 💡 Why Should You Star This Repo?
 
-- 📌 Clean, well-commented **Java code**
-- 👨‍🏫 Concept-wise folders for faster learning
-- 📽️ Ideal for **YouTube tutorials** or teaching
-- 🚀 Updated regularly — stay ahead in DSA
-- 🤖 Includes **real interview problems**
+- Clean, well-commented **Java code**
+- Concept-wise folders for faster learning
+- Ideal for **YouTube tutorials** or teaching
+- Updated regularly — stay ahead in DSA
+- Includes **real interview problems**
 
 ---
 
-## 🧑‍💻 Perfect For:
+## Perfect For:
 - Students preparing for internships and placements  
 - Java developers diving into DSA  
 - Competitive programmers  
