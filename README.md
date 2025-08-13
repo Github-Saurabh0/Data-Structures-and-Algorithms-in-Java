@@ -29,8 +29,8 @@ Before diving in, make sure you're comfortable with basic Java concepts:
 
 ```bash
 📁 Data-Structures-and-Algorithms-in-Java
-├── ![Lec_1 (Beginner Java Codes)](src/Lec_1)
-├── ![Lec_2 (Patterns in Java)](src/Lec_2)
+├── [Lec_1 (Beginner Java Codes)](src/Lec_1)
+├── [Lec_2 (Patterns in Java)](src/Lec_2)
 
 📁 Data-Structures-and-Algorithms-in-Java | Coming soon, stay tuned!
 ├──  Arrays
