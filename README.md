@@ -27,11 +27,37 @@ Before diving in, make sure you're comfortable with basic Java concepts:
 
 ## 📂 Repository Structure
 
-```bash
-📁 Data-Structures-and-Algorithms-in-Java
-├── [Lec_1 (Beginner Java Codes)](src/Lec_1)
-├── [Lec_2 (Patterns in Java)](src/Lec_2)
+<table>
+  <tr>
+    <td>
+      <a href="src/Lec_1">
+        <svg width="220" height="80" viewBox="0 0 220 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Lec 1 — Beginner Java Codes">
+          <!-- Folder tab -->
+          <path d="M20 18 h50 a6 6 0 0 1 6 6 v6 H20 Z" fill="#f4c542"/>
+          <!-- Folder body -->
+          <rect x="12" y="28" width="196" height="44" rx="8" ry="8" fill="#ffd65a" stroke="#e0b94f"/>
+          <!-- Label -->
+          <text x="110" y="57" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#333">
+            Lec 1 — Beginner Java Codes
+          </text>
+        </svg>
+      </a>
+    </td>
+    <td>
+      <a href="src/Lec 2">
+        <svg width="220" height="80" viewBox="0 0 220 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Lec 2 — Patterns in Java">
+          <path d="M20 18 h50 a6 6 0 0 1 6 6 v6 H20 Z" fill="#7dc3ff"/>
+          <rect x="12" y="28" width="196" height="44" rx="8" ry="8" fill="#bfe3ff" stroke="#77b8ef"/>
+          <text x="110" y="57" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#333">
+            Lec 2 — Patterns in Java
+          </text>
+        </svg>
+      </a>
+    </td>
+  </tr>
+</table>
 
+```bash
 📁 Data-Structures-and-Algorithms-in-Java | Coming soon, stay tuned!
 ├──  Arrays
 ├──  Recursion & Backtracking
