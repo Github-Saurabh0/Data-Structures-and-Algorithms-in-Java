@@ -1,10 +1,15 @@
 
 #  Data Structures and Algorithms in Java
 
-![Java](https://img.shields.io/badge/Java-Programming-orange)  
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Essential-blue)  
-![Star](https://img.shields.io/github/stars/Github-Saurabh0/Data-Structures-and-Algorithms-in-Java?style=social)  
+![Java](https://img.shields.io/badge/Java-Programming-orange)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Essential-blue)
+![AI](https://img.shields.io/badge/AI%20Enhanced-Learning-purple)
+![Stars](https://img.shields.io/github/stars/Github-Saurabh0/Data-Structures-and-Algorithms-in-Java?style=social)
 ![Forks](https://img.shields.io/github/forks/Github-Saurabh0/Data-Structures-and-Algorithms-in-Java?style=social)
+
+<p align="center">
+  <img src="./banner.svg" alt="AI Banner: Data Structures & Algorithms in Java" width="100%"/>
+</p>
 
 > 🔥 Master the art of solving problems like a pro — using **Java**  
 > 🎯 Ace your **coding interviews** with the most structured, beginner-to-advanced level **DSA journey**
@@ -27,35 +32,8 @@ Before diving in, make sure you're comfortable with basic Java concepts:
 
 ## 📂 Repository Structure
 
-<table>
-  <tr>
-    <td>
-      <a href="src/Lec_1">
-        <svg width="220" height="80" viewBox="0 0 220 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Lec 1 — Beginner Java Codes">
-          <!-- Folder tab -->
-          <path d="M20 18 h50 a6 6 0 0 1 6 6 v6 H20 Z" fill="#f4c542"/>
-          <!-- Folder body -->
-          <rect x="12" y="28" width="196" height="44" rx="8" ry="8" fill="#ffd65a" stroke="#e0b94f"/>
-          <!-- Label -->
-          <text x="110" y="57" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#333">
-            Lec 1 — Beginner Java Codes
-          </text>
-        </svg>
-      </a>
-    </td>
-    <td>
-      <a href="src/Lec 2">
-        <svg width="220" height="80" viewBox="0 0 220 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Lec 2 — Patterns in Java">
-          <path d="M20 18 h50 a6 6 0 0 1 6 6 v6 H20 Z" fill="#7dc3ff"/>
-          <rect x="12" y="28" width="196" height="44" rx="8" ry="8" fill="#bfe3ff" stroke="#77b8ef"/>
-          <text x="110" y="57" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#333">
-            Lec 2 — Patterns in Java
-          </text>
-        </svg>
-      </a>
-    </td>
-  </tr>
-</table>
+- ▶️ **[Lec 1 — Beginner Java Codes](src/Lec_1)**
+- ▶️ **[Lec 2 — Patterns in Java](src/Lec_2)**
 
 ```bash
 📁 Data-Structures-and-Algorithms-in-Java | Coming soon, stay tuned!
