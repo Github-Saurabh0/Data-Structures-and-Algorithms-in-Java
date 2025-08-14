@@ -24,7 +24,7 @@ public class pattern_4 {
 			//star
 			int j = 1;
 			while(j<=star) {
-				System.err.print("*  ");
+				System.err.print("* ");
 				j++;
 			}
 			
