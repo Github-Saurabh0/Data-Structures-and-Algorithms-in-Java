@@ -23,7 +23,7 @@ public class pattern_14 {
             }
 
             // spaces
-            int j = 1;
+            int j = 2;
             while (j <= space) {
                 System.out.print("  ");
                 j++;
@@ -31,10 +31,19 @@ public class pattern_14 {
 
             // right stars
             int k = 1;
-            
-            while (k <= star) {
-                System.out.print("* ");
-                k++;
+            if(k==1 && star == n  ) {
+            	while (k <= star-1) {
+                    System.out.print("* ");
+                    k++;
+                }
+            	
+            }
+            else
+            {
+            	while (k <= star) {
+                    System.out.print("* ");
+                    k++;
+                }
             }
 
             // next row prep
