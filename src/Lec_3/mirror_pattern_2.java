@@ -41,6 +41,8 @@ public class mirror_pattern_2 {
 			
 
 			// next row prep..
+			// Mirror Concept
+			
 			row++;
 			System.out.println();
 			
