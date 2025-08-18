@@ -23,7 +23,7 @@ public class mirror_pattern_3 {
 			// star
 			int j = 1;
 			while (j <= star) {
-				System.err.print("* ");
+				System.out.print("* ");
 				j++;
 			}
 			// next row prep..
