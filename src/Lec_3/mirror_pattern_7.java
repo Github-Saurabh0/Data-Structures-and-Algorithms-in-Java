@@ -29,7 +29,7 @@ public class mirror_pattern_7 {
 			}
 			// star
 			 int k = 1;
-	            if(star == n/2+1) {
+	            if(star == n/2+1  ) {
 	            	while (k <= star-1) {
 	                    System.out.print("* ");
 	                    k++;
