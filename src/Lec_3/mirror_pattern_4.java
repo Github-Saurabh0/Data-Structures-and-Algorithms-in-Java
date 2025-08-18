@@ -1,0 +1,50 @@
+package Lec_3;
+
+import java.util.Scanner;
+
+public class mirror_pattern_4 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter Value: ");
+		int n = sc.nextInt();
+		int row = 1;
+		int star = n;
+		int space = 0;
+
+		while (row <= 2*n-1) {
+
+			// space
+			int i = 1;
+			while (i <= space) {
+				System.out.print("  ");
+				i++;
+			}
+			// star
+			int j = 1;
+			while (j <= star) {
+				System.out.print("* ");
+				j++;
+			}
+			
+			// next row prep..
+			// Mirror Concept
+			if(row<n){
+				space+=2;
+				star--;
+			}
+			else
+			{
+				space-=2;
+				star++;
+			}
+			
+			row++;
+			System.out.println();
+
+		}
+		sc.close();
+
+	}
+
+}
