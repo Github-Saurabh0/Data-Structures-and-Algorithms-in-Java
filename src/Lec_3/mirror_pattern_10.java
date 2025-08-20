@@ -21,7 +21,6 @@ public class mirror_pattern_10 {
 			{
 			 System.out.print("  ");
 			 i++;
-			 
 			}
 			
 			// star 
@@ -38,13 +37,12 @@ public class mirror_pattern_10 {
 			// star	
 			if(row==n/2+1)
 			{
-				System.out.print("  ");
+            //System.out.print("  ");
 			}
 			else
 			{
 				System.out.print("* ");
 			}
-			
 			
 			//next prep // Mirror Concept 
 			
@@ -52,13 +50,11 @@ public class mirror_pattern_10 {
 			{
 				spacestart++;
 				spacemiddle-=2;
-				
 			}
 			else
 			{
 				spacestart--;
 				spacemiddle+=2;
-				
 			}
 			row++;
 			System.out.println();
