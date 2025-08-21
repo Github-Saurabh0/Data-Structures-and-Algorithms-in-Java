@@ -11,6 +11,7 @@ public class number_pattern_6 {
 		int row = 1;
 		int star = 1;
 		int space = n/2;
+		int val = 1; 
 
 		while (row <= n) {
 
@@ -23,8 +24,9 @@ public class number_pattern_6 {
 			// star
 			int j = 1;
 			while (j <= star) {
-				System.out.print("* ");
+				System.out.print(val+" ");
 				j++;
+				
 			}
 			
 			// next row prep..
@@ -42,6 +44,7 @@ public class number_pattern_6 {
 			}
 			
 			row++;
+			val++;
 			System.out.println();
 			
 		}
