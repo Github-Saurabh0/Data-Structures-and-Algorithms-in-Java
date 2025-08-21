@@ -36,15 +36,17 @@ public class number_pattern_6 {
 			{
 				star+=2;
 				space--;
+				val++;
 			}
 			else
 			{
 				star-=2;
 				space++;
+				val--;
 			}
 			
 			row++;
-			val++;
+			
 			System.out.println();
 			
 		}
