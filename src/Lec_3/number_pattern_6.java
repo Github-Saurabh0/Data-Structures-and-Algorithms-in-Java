@@ -23,8 +23,17 @@ public class number_pattern_6 {
 			}
 			// star
 			int j = 1;
+			int p = val;
 			while (j <= star) {
-				System.out.print(val+" ");
+				System.out.print(p+" ");
+				if(j<star/2+1)
+				{
+					p++;
+				}
+				else
+				{
+					p--;
+				}
 				j++;
 				
 			}
