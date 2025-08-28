@@ -20,7 +20,12 @@ public class Gcd_Hcf {
 			divisor = reminder;
 			
 		}
-		
+		while(divisor % divident == 0)
+		{
+			int reminder = divident % divisor;
+			reminder = divisor;
+			divisor =divident;
+		}
 		System.out.println("GCD is: "+ divisor);
 	}
 
