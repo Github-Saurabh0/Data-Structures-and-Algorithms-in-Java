@@ -34,6 +34,9 @@ Before diving in, make sure you're comfortable with basic Java concepts:
 
 - ▶️ **[Lec 1 — Beginner Java Codes](src/Lec_1)**
 - ▶️ **[Lec 2 — Patterns in Java](src/Lec_2)**
+- ▶️ **[Lec 3 — Mirror Patterns in Java](src/Lec_3)**
+- ▶️ **[Lec 4 — Loops, break, Fibo in Java](src/Lec_4)**
+- ▶️ **[Lec 5 — Number System, Binary, Decimal in Java](src/Lec_5)**
 
 ```bash
 📁 Data-Structures-and-Algorithms-in-Java | Coming soon, stay tuned!
