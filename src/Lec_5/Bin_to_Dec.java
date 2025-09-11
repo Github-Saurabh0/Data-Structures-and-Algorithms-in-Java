@@ -11,7 +11,7 @@ public class Bin_to_Dec {
 		int sum = 0;
 		int mul = 1;
 		
-		while(n>0)
+		while(n>0 )
 		{
 			int rem = n%10;
 			sum = sum + rem * mul;
