@@ -16,6 +16,7 @@ public class data_type_2 {
 		a = b1;
 		System.out.println(a);
 
+		
 	}
 
 }
